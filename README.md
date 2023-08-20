@@ -4,7 +4,7 @@ A Modpack based on Customization, Build and Food.
 
 You'll be able to change your skin ingame, add your own music and upload your own images... as well as using colors in the chat or in signs and copy text from sign to sign.
 
-Do everything you want the way you want it to be !
+Do everything you want the way you want to do it !
 
 # Download the Modpack
 
